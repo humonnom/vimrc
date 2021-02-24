@@ -12,4 +12,4 @@ type ":PluginInstall"
 
 
 src from https://www.youtube.com/watch?v=oLvFt-UJ7UI    
-I added "you complete me" and some code (change escape key esc->jj)
+I added "you complete me" vundle and some code (change escape key esc->jj).
