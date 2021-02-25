@@ -14,8 +14,13 @@ vimrc settings.
 - **:PluginInstall** (Plugin install command)  
 
 
-[Reference](https://www.youtube.com/watch?v=oLvFt-UJ7UI)      
+---
+
+
+### [Reference](https://www.youtube.com/watch?v=oLvFt-UJ7UI)      
 I added few vundles and few custom lines.  
+
+
 
 ### Modified  
 - Added escape key custom: **esc** ->  **jj**  
