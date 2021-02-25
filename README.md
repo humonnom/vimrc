@@ -17,6 +17,6 @@ open .vimrc file.
 I added few vundles and few custom lines.
 
 ### modified
-- escape key custom: **esc ->  **jj
-- added few lines regarding **indexing.
+- escape key custom: **esc** ->  **jj**
+- added few lines regarding **indexing**.
 - **you complete me** Vundle
