@@ -2,15 +2,16 @@
 vimrc settings.  
 
 ## Step 1  
-**Copy** vimrc file -> **Paste** on your home directory (Name : .vimrc)  
+- **Copy** vimrc file.   
+- **Paste** on your home directory (Name : .vimrc)  
 
 ## Step 2  
-Open .vimrc file.  
-**:w** (Save)  
-**:source %** (Renewal)  
+- Open .vimrc file.  
+- **:w** (Save)  
+- **:source %** (Renewal)  
 
 ## Step 3  
-**:PluginInstall** (Plugin install command)  
+- **:PluginInstall** (Plugin install command)  
 
 
 [Reference](https://www.youtube.com/watch?v=oLvFt-UJ7UI)      
@@ -20,4 +21,4 @@ I added few vundles and few custom lines.
 - Added escape key custom: **esc** ->  **jj**  
 - Added few lines regarding **indexing**.  
 - Added **you complete me** Vundle  
-- Added **42header** Vandle
+- Added **42header** Vandle   
