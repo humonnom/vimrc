@@ -48,6 +48,9 @@ set ts=4
 set t_Co=256
 set number
 set nocompatible
+set autoindent  " 자동 들여쓰기
+set cindent " C 프로그래밍용 자동 들여쓰기
+set smartindent " 스마트한
 syntax on
 " filetype off
 highlight Comment term=bold cterm=bold ctermfg=4
