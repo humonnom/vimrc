@@ -1,15 +1,21 @@
 # vimrc
-vimrc settings
+vimrc settings.
 
 ## step 1
-copy vimrc file -> in your home directory
+copy vimrc file -> paste on your home directory (name : .vimrc)
 
 ## step 2
-save and type ":source %"
+open .vimrc file.
+:w (save)
+:source % (renewal)
 
 ## step 3
-type ":PluginInstall"
+:PluginInstall (plugin install command)
 
 
-src from https://www.youtube.com/watch?v=oLvFt-UJ7UI    
-I added "you complete me" vundle and some code (change escape key esc->jj).
+[Reference](https://www.youtube.com/watch?v=oLvFt-UJ7UI)    
+I added "you complete me" vundle and few custom lines
+
+### modified
+- escape key custom: **esc ->  **jj
+- added few lines regarding **indexing.
