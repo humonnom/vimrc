@@ -49,7 +49,7 @@ set t_Co=256
 set number
 set nocompatible
 syntax on
-filetype off
+" filetype off
 highlight Comment term=bold cterm=bold ctermfg=4
 set backspace=eol,start,indent
 
