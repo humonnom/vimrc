@@ -18,7 +18,7 @@ vimrc settings.
 
 
 ### [Reference](https://www.youtube.com/watch?v=oLvFt-UJ7UI)      
-I added few vundles and few custom lines.  
+I added few vundles and modified few lines.  
 
 
 
