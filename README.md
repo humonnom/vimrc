@@ -24,6 +24,6 @@ I added few vundles and modified few lines.
 
 ### Modified  
 - Added escape key custom: **esc** ->  **jj**  
-- Added few lines regarding **indexing**.  
+- Added few lines regarding **auto indent(lang: c, stmart indet)**.  
 - Added **you complete me** Vundle  
 - Added **42header** Vandle   
