@@ -14,8 +14,9 @@ open .vimrc file.
 
 
 [Reference](https://www.youtube.com/watch?v=oLvFt-UJ7UI)    
-I added "you complete me" vundle and few custom lines
+I added few vundles and few custom lines.
 
 ### modified
 - escape key custom: **esc ->  **jj
 - added few lines regarding **indexing.
+- **you complete me** Vundle
